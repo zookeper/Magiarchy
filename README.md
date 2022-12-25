@@ -1,0 +1,2 @@
+# Magiarchy
+Minecraft server files
